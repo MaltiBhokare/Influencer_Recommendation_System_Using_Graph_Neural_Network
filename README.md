@@ -77,5 +77,3 @@ React Dashboard (Frontend Visualization)
 
 ---
 
-## 🔧 Folder Structure
-
